@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vika_Shop", "Vika_Shop\Vika_Shop.csproj", "{572BED1C-5655-40B1-9B8B-42B5F9F20E33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7ACFA244-E7A2-4847-A0F1-EC051952A5ED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572BED1C-5655-40B1-9B8B-42B5F9F20E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572BED1C-5655-40B1-9B8B-42B5F9F20E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572BED1C-5655-40B1-9B8B-42B5F9F20E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572BED1C-5655-40B1-9B8B-42B5F9F20E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288EA656-AC19-4CC2-893E-83AB9D986AE0}
+	EndGlobalSection
+EndGlobal
